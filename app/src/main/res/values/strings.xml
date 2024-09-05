@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipValue</string>
+    <string name="enter_total_charge">Enter total charge</string>
+    <string name="tip_10">Tip(10%)</string>
+    <string name="tip_20">Tip(20%)</string>
+    <string name="tip_30">Tip(30%)</string>
+    <string name="calculate_tip">Calculate tip</string>
+    <string name="total_tip">Total Tip</string>
+    <string name="_00_00">$00.00</string>
+</resources>

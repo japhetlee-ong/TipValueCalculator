@@ -1,0 +1,3 @@
+interface GameInterface {
+    fun play()
+}
